@@ -1,5 +1,5 @@
 The northern rosella (Platycercus venustus) is a species of parrot native to northern Australia, ranging from the Gulf of Carpentaria and Arnhem Land to the Kimberley. It was described by Heinrich Kuhl in 1820, and two subspecies are recognised.
-
 The species is unusually coloured for a rosella, with a dark head and neck with pale cheeks—predominantly white in the nominate subspecies from the Northern Territory and blue in the Western Australian subspecies. The northern rosella's mantle and scapulars are black with fine yellow scallops, while its back, rump and underparts are pale yellow with fine black scallops. 
-
 The long tail is blue-green and the wings are black and blue-violet. Found in woodland and open savannah country, the northern rosella consumes seeds, particularly of grasses and eucalypts, as well as flowers and berries, but it may also eat insects. Nesting takes place in tree hollows. Although uncommon, the species is not threatened. (Full article...) 
+Open-source offline translation library written in Python
+Argos Translate supports installing language model packages which are zip archives with a ".argosmodel" extension with the data needed for translation.
